@@ -43,6 +43,7 @@ while (opcao != 0) {
                     System.out.println(operacao);
                     break;
     }
+    // e se eu mecher aqui?
                     if (opcao == 2) {
                       Scanner input1 = new Scanner(System.in);  
                     System.out.println("Qual o primeiro numero: ");
