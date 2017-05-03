@@ -60,7 +60,7 @@ public class Calc {
         int result = soma(num1,num2);
         System.out.println("O resultado é: "+result);
         menu(num1, num2);
-       break;
+       break;//dsd
     case 2:
         result = subtracao(num1,num2);
         System.out.println("O resultado é: "+result);
