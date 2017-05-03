@@ -21,7 +21,6 @@ public class Calc {
         int num2 = 0;
         int result;
         menu(num1,num2);
-        //ss
  }
         //Declaração das Classes
 
