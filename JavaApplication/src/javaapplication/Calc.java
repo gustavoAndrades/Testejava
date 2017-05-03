@@ -17,8 +17,8 @@ public class Calc {
     public static void main (String args[]){
         //declarando as varíaveis
         Scanner in = new Scanner(System.in);                
-        int num1 = 0;
-        int num2 = 0;
+        int num1 = 1;
+        int num2 = 2;
      
         menu(num1,num2);
         //ss
