@@ -19,7 +19,7 @@ public class Calc {
         Scanner in = new Scanner(System.in);                
         int num1 = 0;
         int num2 = 0;
-        int result;
+        int resultado;
         menu(num1,num2);
         //ss
  }
