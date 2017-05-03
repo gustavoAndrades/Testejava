@@ -37,6 +37,8 @@ public class Calc {
 	public static int multiplicacao(int num1, int num2){
 		return num1 - num2;
 	}
+
+
 //...Aqui    Ai eu fico com o menu e o recebimento de dados
     public static void menu(int num1, int num2){
     //Scanner input = new Scanner(System.in);  
