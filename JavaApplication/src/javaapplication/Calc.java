@@ -16,11 +16,10 @@ import java.util.Scanner;
 public class Calc {
     public static void main (String args[]){
         //declarando as varíaveis
-        Scanner in = new Scanner(System.in);                
+        Scanner in = new Scanner(System.in);   
         int num1 = 9;
-        int num2 = 5;
+        int num2 = 0
         menu(num1,num2);
-        //ss
  }
         //Declaração das Classes
 
