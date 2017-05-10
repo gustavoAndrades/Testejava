@@ -55,10 +55,10 @@ switch (opcao) {
 		return num1 - num2;
 	}
         public static int menu(){
-                  //Scanner input = new Scanner(System.in);  
-                Scanner in = new Scanner(System.in);                
+                  
+    Scanner in = new Scanner(System.in);                
 
-                  System.out.println("/////////Escolha uma opção\\\\\\\\\\\\");
+    System.out.println("/////////Escolha uma opção\\\\\\\\\\\\");
     System.out.println("1- Soma");  
     System.out.println("2- Subtracao");  
     System.out.println("3- Multiplicacao");  
@@ -67,4 +67,5 @@ switch (opcao) {
     System.out.println("Operação: ");  
     int opcao = in.nextInt();
     return opcao;
+}
 }
