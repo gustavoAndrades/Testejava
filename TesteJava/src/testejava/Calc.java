@@ -39,10 +39,9 @@ switch (opcao) {
          break;
     case 6:
         System.out.println("Digite uma opição valida.");
-        default;
     }
  }
-        //Declaração das Classes
+        //Declaracapo das Classes
 	public static int soma(int num1, int num2) {
 		return num1 + num2;// esse faz a soma
 	}
@@ -58,14 +57,13 @@ switch (opcao) {
         public static int menu(){
                   
     Scanner in = new Scanner(System.in);                
-
-    System.out.println("/////////Escolha uma opção\\\\\\\\\\\\");
+    System.out.println("/////////Escolha uma Operacao\\\\\\\\\\\\");
     System.out.println("1- Soma");  
     System.out.println("2- Subtracao");  
     System.out.println("3- Multiplicacao");  
     System.out.println("4- Divisao");  
     System.out.println("0- Sair");  
-    System.out.println("Operação: ");  
+    System.out.println("Operacao: ");  
     int opcao = in.nextInt();
     return opcao;
 }
