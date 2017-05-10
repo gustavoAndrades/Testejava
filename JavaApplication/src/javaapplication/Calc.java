@@ -18,7 +18,7 @@ public class Calc {
         //declarando as varíaveis
         Scanner in = new Scanner(System.in);   
         int num1 = 9;
-        int num2 = 0
+        int num2 = 0;
         menu(num1,num2);
  }
         //Declaração das Classes
