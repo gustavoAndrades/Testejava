@@ -18,6 +18,7 @@ public class Calc {
         int num1 = 0;
         int num2 = 0;
         int result;
+        int test8;
         opcao = menu();
         //jjsasaedwew
                             
