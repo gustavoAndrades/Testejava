@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Calc {
     public static void main (String args[]){
         //declarando as varíaveis
-        int resto;
+       
         int opcao;
         int num1 = 0;
         int num2 = 0;
