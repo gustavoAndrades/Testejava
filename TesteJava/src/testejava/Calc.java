@@ -19,7 +19,7 @@ public class Calc {
         int num2 = 0;
         int result;
         opcao = menu();
-        //jjsasa
+        //jjsasaedwew
                             
 switch (opcao) {
     case 1:
